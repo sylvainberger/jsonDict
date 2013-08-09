@@ -1,0 +1,17 @@
+{
+    "sample_bool": true, 
+    "sample_dict": {
+        "a": 1, 
+        "b": 2
+    }, 
+    "sample_float": 0.0123, 
+    "sample_int": 12, 
+    "sample_list": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "sample_new": false, 
+    "sample_string": "Default"
+}
