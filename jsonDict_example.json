@@ -1,0 +1,16 @@
+{
+    "active": true,
+    "age": 39,
+    "company": "Hybride Technologies",
+    "name": "Sylvain Berger",
+    "note": 78.2,
+    "settings": {
+        "home": "/Users/sylvain.berger",
+        "version": 2.3
+    },
+    "tasks": [
+        1,
+        35,
+        365
+    ]
+}
